@@ -1,0 +1,7 @@
+.kit/
+.pi/
+.req*.json
+out/
+transcripts.tar.gz
+*.log
+node_modules/
